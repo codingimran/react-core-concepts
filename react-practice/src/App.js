@@ -84,7 +84,7 @@ function Users() {
             <div>
               <h3 className="tc">Users {i + 1}</h3>
               <ul>
-                <li>Name: {record.name}</li>
+                <li>name: {record.name}</li>
                 <li>Username: {record.username}</li>
                 <li>Email: {record.email}</li>
                 <li>Phone: {record.phone}</li>
