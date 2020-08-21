@@ -1,0 +1,7 @@
+.ShowNameDiv {
+  display: inline-block;
+  width: 300px;
+  padding: 40px;
+  margin: 40px;
+  transform: translate(50%);
+}
